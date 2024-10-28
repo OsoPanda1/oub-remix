@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/226f17f898a143aa9ea3378dffae03ef)](https://app.codacy.com/gh/OsoPanda1/oub-remix?utm_source=github.com&utm_medium=referral&utm_content=OsoPanda1/oub-remix&utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.com/sahyam2019/oub-remix.svg?branch=sql-extended)](https://travis-ci.com/sahyam2019/oub-remix) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/38fee611df7c4312be63a15cad64a50a)](https://www.codacy.com/manual/sahyam2019/oub-remix?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sahyam2019/oub-remix&amp;utm_campaign=Badge_Grade) ![Last Commit](https://img.shields.io/github/last-commit/sahyam2019/oub-remix) ![Contributers](https://img.shields.io/github/contributors/sahyam2019/oub-remix) ![Forks](https://img.shields.io/github/forks/sahyam2019/oub-remix)     
 # Project OpenUserBot Remix (CLOSED NOW)
 
