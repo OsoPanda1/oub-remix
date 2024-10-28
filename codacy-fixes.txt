@@ -1,0 +1,48 @@
+diff --git a/README.md b/README.md
+--- a/README.md
++++ b/README.md
+@@ -29,1 +29,1 @@
+-### Commands list
++### Commands list
+
+@@ -32,1 +32,1 @@
+-    *help <plugin_name> *- Get help about plugin, Send it without plugin name to get list of all plugins
++    *help <plugin_name>*- Get help about plugin, Send it without plugin name to get list of all plugins
+@@ -39,1 +39,1 @@
+-- Gif responses
++
+- Gif responses
+@@ -46,1 +46,1 @@
+-##### Trivia
++##### Trivia
+
+@@ -47,1 +47,1 @@
+-- The use of the Skynet X System to determine latent criminals with the help of Crime Coefficients is introduced at some point between 2090 and 2100.
++
+- The use of the Skynet X System to determine latent criminals with the help of Crime Coefficients is introduced at some point between 2090 and 2100.
+@@ -60,1 +60,1 @@
+-- Using this userbot can get your account floodwaited as it checks for each message, each edited, each join for blacklisted strings, If you don't want auto gbans simply delete blacklist.py and remove it from to_load in `__init_.py`
++
+- Using this userbot can get your account floodwaited as it checks for each message, each edited, each join for blacklisted strings, If you don't want auto gbans simply delete blacklist.py and remove it from to_load in `__init_.py`
+@@ -65,1 +65,1 @@
+-- How else would I get reason, message etc? ( I know about split but that'd make the code hard for me to read)
++
+- How else would I get reason, message etc? ( I know about split but that'd make the code hard for me to read)
+@@ -68,1 +68,1 @@
+-- Cuz I'm a noob.
++
+- Cuz I'm a noob.
+@@ -71,1 +71,1 @@
+-- I don't want people from uniborg or ftg or other userbots to put their plugins (those weird animation ones or useless ones) in Skynet X System
++
+- I don't want people from uniborg or ftg or other userbots to put their plugins (those weird animation ones or useless ones) in Skynet X System
+diff --git a/.github/ISSUE_TEMPLATE/bug.md b/.github/ISSUE_TEMPLATE/bug.md
+--- a/.github/ISSUE_TEMPLATE/bug.md
++++ b/.github/ISSUE_TEMPLATE/bug.md
+@@ -15,1 +15,1 @@
+-- Go to logs.
++
+- Go to logs.
+@@ -29,1 +29,1 @@
+-
++
